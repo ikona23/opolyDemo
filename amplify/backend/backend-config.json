@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"opolydemoc5705d2e": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
